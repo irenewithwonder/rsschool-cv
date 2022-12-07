@@ -12,4 +12,4 @@ My first programming experience happened at high school,where at IT lessons in t
 - C++ basics
 ### Languages:
 - Russian - Native
-- English - Upper-Intermediate (according to TOEFL exam)
+- English - Upper-Intermediate (according to TOEFL exam) 
